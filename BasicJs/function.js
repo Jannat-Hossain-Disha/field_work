@@ -17,4 +17,4 @@ function calc(sq)
 let num=calc(5);
 console.log(num);
 //else
-console.log(calc(10000));
+console.log(calc(100));
